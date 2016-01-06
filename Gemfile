@@ -24,6 +24,7 @@ gem "rails_12factor", group: :production
 gem "populator"
 gem "newrelic_rpm"
 gem "figaro"
+gem "will_paginate"
 
 group :development, :test do
   gem "pry-rails"
